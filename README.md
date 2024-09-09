@@ -9,11 +9,14 @@ My goal is to introduce my mentee to various areas of machine learning and the t
 ## 📚 What You'll Find Here
 
 In this repository, you’ll find:
-
 - **Presentations:** Slides and notes from our lessons covering various topics in machine learning.
 - **Code Examples:** Hands-on examples and code snippets that illustrate key concepts.
 - **Additional Resources:** Links to articles, papers, and other resources that complement the materials.
 - **Assignments:** Exercises and projects to practice what you’ve learned.
+
+Directory Structure:
+- In "Lesson_{i}" folders, you'll find ready-to-use lesson materials for each session.
+- The ["src"](./src/) folder contains supplementary materials (e.g., .key files of presentations).
 
 ## 📂 Lesson Overview
 
