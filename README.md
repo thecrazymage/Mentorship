@@ -24,6 +24,8 @@ Directory Structure:
 - [Materials](./Lesson_1/)
 ### Lesson 2: LaTeX and Resume
 - [Materials](./Lesson_2/)
+### Lesson 3: Career Exploration in Machine Learning
+- [Materials](./Lesson_3/)
 
 *(Additional lessons will be added here as they are published.)*
 

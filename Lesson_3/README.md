@@ -1,4 +1,4 @@
-# Lesson 2: LaTex and Resume
+# Lesson 3: Career Exploration in Machine Learning
 
 This lesson explores the diverse and exciting career paths available in the dynamic field of Machine Learning. You'll learn about different roles, their key responsibilities and required skills, and discover how ML is transforming various industries.
 
