@@ -22,6 +22,8 @@ Directory Structure:
 
 ### Lesson 1: Introduction to GitHub and Project Structure
 - [Materials](./Lesson_1/)
+### Lesson 2: LaTeX and Resume
+- [Materials](./Lesson_2/)
 
 *(Additional lessons will be added here as they are published.)*
 
