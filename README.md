@@ -26,6 +26,15 @@ Directory Structure:
 - [Materials](./Lesson_2/)
 ### Lesson 3: Career Exploration in Machine Learning
 - [Materials](./Lesson_3/)
+### Lesson 4: Pandas
+- [Materials](./Lesson_4/)
+### Lesson 5: Matplotlib and Seaborn
+- [Materials](./Lesson_5/)
+### Lesson 6: Numpy
+- [Materials](./Lesson_6/)
+### Lesson 7: Discussion of current affairs
+### Lesson 8: Pytorch
+- [Materials](./Lesson_8/)
 
 *(Additional lessons will be added here as they are published.)*
 
