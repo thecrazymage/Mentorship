@@ -35,6 +35,8 @@ Directory Structure:
 ### Lesson 7: Discussion of current affairs
 ### Lesson 8: Pytorch
 - [Materials](./Lesson_8/)
+### Lesson 9: Data
+- [Materials](./Lesson_9/)
 
 *(Additional lessons will be added here as they are published.)*
 
