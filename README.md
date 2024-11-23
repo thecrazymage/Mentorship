@@ -37,6 +37,8 @@ Directory Structure:
 - [Materials](./Lesson_8/)
 ### Lesson 9: Data
 - [Materials](./Lesson_9/)
+### Lesson 10: Vectors and matrices
+- [Materials](./Lesson_10/)
 
 *(Additional lessons will be added here as they are published.)*
 

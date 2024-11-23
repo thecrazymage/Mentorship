@@ -1,4 +1,4 @@
-# Lesson 8: Data
+# Lesson 9: Data
 
 In this lesson we discussed data varieties and types of tasks in machine learning.
 
