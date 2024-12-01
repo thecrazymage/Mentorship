@@ -40,7 +40,7 @@ Directory Structure:
 ### Lesson 10: Vectors and matrices: part 1
 - [Materials](./Lesson_10/)
 ### Lesson 11: Vectors and matrices: part 2
-- [Materials](./Lesson_10/)
+- [Materials](./Lesson_11/)
 
 *(Additional lessons will be added here as they are published.)*
 
