@@ -1,4 +1,4 @@
-# Lesson 9: Vectors and matrices
+# Lesson 11: Vectors and matrices
 
 This lesson continues the basics of vectors and matrices from linear algebra.
 

@@ -41,6 +41,8 @@ Directory Structure:
 - [Materials](./Lesson_10/)
 ### Lesson 11: Vectors and matrices: part 2
 - [Materials](./Lesson_11/)
+### Lesson 12: Features
+- [Materials](./Lesson_12/)
 
 *(Additional lessons will be added here as they are published.)*
 
