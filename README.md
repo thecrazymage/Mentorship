@@ -33,6 +33,7 @@ Directory Structure:
 ### Lesson 6: Numpy
 - [Materials](./Lesson_6/)
 ### Lesson 7: Discussion of current affairs
+- [Materials](./Lesson_7/)
 ### Lesson 8: Pytorch
 - [Materials](./Lesson_8/)
 ### Lesson 9: Data
@@ -41,8 +42,12 @@ Directory Structure:
 - [Materials](./Lesson_10/)
 ### Lesson 11: Vectors and matrices: part 2
 - [Materials](./Lesson_11/)
-### Lesson 12: Features
+### Lesson 12: Features: part 1
 - [Materials](./Lesson_12/)
+### Lesson 13: Features: part 2
+- [Materials](./Lesson_13/)
+### Lesson 14: EDA
+- [Materials](./Lesson_14/)
 
 *(Additional lessons will be added here as they are published.)*
 
