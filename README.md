@@ -48,6 +48,8 @@ Directory Structure:
 - [Materials](./Lesson_13/)
 ### Lesson 14: EDA
 - [Materials](./Lesson_14/)
+### Lesson 15: Pytorch 2
+- [Materials](./Lesson_15/)
 
 *(Additional lessons will be added here as they are published.)*
 
