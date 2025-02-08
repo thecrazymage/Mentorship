@@ -20,48 +20,28 @@ Directory Structure:
 
 ## 📂 Lesson Overview
 
-### Lesson 1: Introduction to GitHub and Project Structure
-- [Materials](./Lesson_1/)
-### Lesson 2: LaTeX and Resume
-- [Materials](./Lesson_2/)
-### Lesson 3: Career Exploration in Machine Learning
-- [Materials](./Lesson_3/)
-### Lesson 4: Pandas
-- [Materials](./Lesson_4/)
-### Lesson 5: Matplotlib and Seaborn
-- [Materials](./Lesson_5/)
-### Lesson 6: Numpy
-- [Materials](./Lesson_6/)
-### Lesson 7: Discussion of current affairs
-- [Materials](./Lesson_7/)
-### Lesson 8: Pytorch
-- [Materials](./Lesson_8/)
-### Lesson 9: Data
-- [Materials](./Lesson_9/)
-### Lesson 10: Vectors and matrices: part 1
-- [Materials](./Lesson_10/)
-### Lesson 11: Vectors and matrices: part 2
-- [Materials](./Lesson_11/)
-### Lesson 12: Features: part 1
-- [Materials](./Lesson_12/)
-### Lesson 13: Features: part 2
-- [Materials](./Lesson_13/)
-### Lesson 14: EDA
-- [Materials](./Lesson_14/)
-### Lesson 15: Pytorch 2
-- [Materials](./Lesson_15/)
-### Lesson 16: Linear Regression 1
-- [Materials](./Lesson_16/)
-### Lesson 17: Linear Regression 2
-- [Materials](./Lesson_17/)
-### Lesson 18: Linear Regression 3
-- [Materials](./Lesson_18/)
-### Lesson 19: CNN 1
-- [Materials](./Lesson_19/)
-### Lesson 20: CNN 2
-- [Materials](./Lesson_20/)
-
-*(Additional lessons will be added here as they are published.)*
+<big><pre>
+    1.  [Lesson 1: Introduction to GitHub and Project Structure](./Lesson_1/)
+    2.  [LaTeX and Resume](./Lesson_2/)
+    3.  [Career Exploration in Machine Learning](./Lesson_3/)
+    4.  [Pandas](./Lesson_4/)
+    5.  [Matplotlib and Seaborn](./Lesson_5/)
+    6.  [Numpy](./Lesson_6/)
+    7.  [Discussion of current affairs](./Lesson_7/)
+    8.  [Pytorch](./Lesson_8/)
+    9.  [Data](./Lesson_9/)
+    10. [Vectors and matrices: part 1](./Lesson_10/)
+    11. [Lesson 11: Vectors and matrices: part 2](./Lesson_11/)
+    12. [Lesson 12: Features: part 1](./Lesson_12/)
+    13. [Lesson 13: Features: part 2](./Lesson_13/)
+    14. [Lesson 14: EDA](./Lesson_14/)
+    15. [Lesson 15: Pytorch 2](./Lesson_15/)
+    16. [Lesson 16: Linear Regression 1]((./Lesson_16/))
+    17. [Lesson 17: Linear Regression 2](./Lesson_17/)
+    18. [Lesson 18: Linear Regression 3](./Lesson_18/)
+    19. [Lesson 19: CNN 1](./Lesson_19/)
+    20. [Lesson 20: CNN 2](./Lesson_20/)
+</pre></big>
 
 ## ⭐ Contributions and Feedback
 
