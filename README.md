@@ -50,6 +50,16 @@ Directory Structure:
 - [Materials](./Lesson_14/)
 ### Lesson 15: Pytorch 2
 - [Materials](./Lesson_15/)
+### Lesson 16: Linear Regression 1
+- [Materials](./Lesson_16/)
+### Lesson 17: Linear Regression 2
+- [Materials](./Lesson_17/)
+### Lesson 18: Linear Regression 3
+- [Materials](./Lesson_18/)
+### Lesson 19: CNN 1
+- [Materials](./Lesson_19/)
+### Lesson 20: CNN 2
+- [Materials](./Lesson_20/)
 
 *(Additional lessons will be added here as they are published.)*
 
