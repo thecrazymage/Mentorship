@@ -41,7 +41,8 @@ Directory Structure:
     18. [Lesson 18: Linear Regression 3](./Lesson_18/)
     19. [Lesson 19: CNN 1](./Lesson_19/)
     20. [Lesson 20: CNN 2](./Lesson_20/)
-    20. [Lesson 21: CNN 3](./Lesson_21/)
+    21. [Lesson 21: CNN 3](./Lesson_21/)
+    22. [Lesson 22: CNN 4](./Lesson_22/)
 </pre></big>
 
 ## ⭐ Contributions and Feedback
