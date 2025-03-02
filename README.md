@@ -43,6 +43,7 @@ Directory Structure:
     20. [Lesson 20: CNN 2](./Lesson_20/)
     21. [Lesson 21: CNN 3](./Lesson_21/)
     22. [Lesson 22: CNN 4](./Lesson_22/)
+    22. [Lesson 23: CNN 5](./Lesson_23/)
 </pre></big>
 
 ## ⭐ Contributions and Feedback
