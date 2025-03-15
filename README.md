@@ -44,6 +44,7 @@ Directory Structure:
     21. [Lesson 21: CNN 3](./Lesson_21/)
     22. [Lesson 22: CNN 4](./Lesson_22/)
     22. [Lesson 23: CNN 5](./Lesson_23/)
+    22. [Lesson 24: CNN 6](./Lesson_24/)
 </pre></big>
 
 ## ⭐ Contributions and Feedback
