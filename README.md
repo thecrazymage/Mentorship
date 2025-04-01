@@ -43,8 +43,9 @@ Directory Structure:
     20. [Lesson 20: CNN 2](./Lesson_20/)
     21. [Lesson 21: CNN 3](./Lesson_21/)
     22. [Lesson 22: CNN 4](./Lesson_22/)
-    22. [Lesson 23: CNN 5](./Lesson_23/)
-    22. [Lesson 24: CNN 6](./Lesson_24/)
+    23. [Lesson 23: CNN 5](./Lesson_23/)
+    24. [Lesson 24: CNN 6](./Lesson_24/)
+    25. [Lesson 25: Transformers 1](./Lesson_25/)
 </pre></big>
 
 ## ⭐ Contributions and Feedback
