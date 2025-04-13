@@ -1,6 +1,6 @@
 # Lesson 25: Transformers 1
 
-In this class, we began to go over the concept of Transformers.
+In this class, we began to go over the concept of transformers.
 
 Transformers material:
 1. [source](https://jalammar.github.io/illustrated-transformer/)
